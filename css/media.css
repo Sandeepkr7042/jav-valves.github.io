@@ -1,0 +1,1242 @@
+@media(max-width:1560px){
+}
+@media(max-width:1367px){
+}
+@media(max-width:1199px){
+/*home start*/
+.CetificatSection.bodySection {
+    min-height: inherit;
+}
+.welcomeTo.bodySection {
+    min-height: inherit;
+}
+.indexBanner .bannerHeading p{
+    padding: 0 100px;
+    margin-top: 14px;
+}
+.indexBanner{
+    height: 100vh;
+}
+.indexBanner .bannerHeading{
+    padding-top: 160px;
+}
+.whyUs .aboutCompImage{
+    width: 420px;
+    min-width: 420px;
+}
+.getinTouchDetails h4{
+    font-size: 65px;
+}
+.clientSliderMain .clientlmage {
+    height: 110px;
+    max-height: 110px;
+}
+/*home end*/
+/* Footer Start */
+.footTop{
+    flex-direction: column;
+}
+.footLeft{
+    margin-right: 0;
+    margin-bottom: 50px;
+}
+.footerTop{
+    padding: 65px 0;
+}
+.socialMenu ul li a{
+    font-size: 22px;
+}
+/* Footer End */
+/* Common Classes Start */
+.container{
+    max-width: 100%;
+    padding: 0 30px;
+}
+.fontSize18{
+    font-size: 18px;
+    line-height: 27px;
+}
+.fontSize65 {
+    font-size: 60px;
+    line-height: 74px;
+}
+.btnStyle{
+    padding: 12px 47px;
+}
+.bannerDesign{
+    height: 450px;
+}
+.fontSize90{
+    font-size: 80px;
+}
+.bannerHeading.subgroupHeading h2{
+    line-height: 90px;
+}
+/* Common Classes End */
+
+/* Contact Page Start */
+.contactBtmTop {
+    padding: 0 150px;
+}
+.contactLeft {
+    padding-right: 30px;
+}
+.contactBanner {
+    height: 430px;
+}
+/* Contact Page End */
+/* Download Catalogue Section Start */
+.btnStyle2 {
+    padding: 15px 28px;
+}
+/* Download Catalogue Section End */
+/* Our Products Page Start */
+.productListBox{
+    padding: 50px 0 40px;
+}
+.fontSize42{
+    line-height: 50px;
+}
+/* Our Products Page End */
+/* Our Product Detail Page Start */
+.featureImage {
+    min-width: 370px;
+    width: 370px;
+    margin-right: 40px;
+}
+/* Our Product Detail Page End */
+/* About Page Start */
+.aboutComp,
+.aboutCompContent{
+    min-height: 500px;
+}
+.testimonialSlider .slick-next {
+    right: 50px;
+}
+.testimonialSlider .slick-prev {
+    left: initial;
+    right: 90px;
+}
+/* About Page End */
+
+
+
+
+/* Request A Quote Page Start */
+.divisionTabs.nav-tabs .nav-link{
+    font-size: 20px;
+    line-height: 28px;
+}
+.divisionTabs .nav-item{
+    padding-right: 70px;
+}
+.divisionTabs.nav-tabs .nav-link::before{
+    top: 40%;
+    width: 20px;
+    right: -30px;
+}
+.divisionTabs.nav-tabs .nav-link.active::before{
+    width: 60px;
+    right: -70px;
+}
+.prodListBox .prodImage{
+    width: 120px;
+    min-width: 120px;
+    height: 100px;
+}
+/* Request A Quote Page End */
+
+
+}
+@media(max-width:991px){
+/*home start*/
+/* .ourValuesInner {
+    padding-top: 25px;
+   } */
+.CetificatSection.bodySection {
+    min-height: inherit;
+    }
+.clientSliderMain .slick-prev {
+    left: 0px;
+   }
+.clientSliderMain .slick-next {
+    right: 0px;
+}
+/* .getInTouch {
+    padding: 64px 33px 25px 38px;
+} */
+.welcomeDetails{
+    padding-right: 0;
+}
+.whyUs .aboutCompImage {
+    width: 340px;
+    min-width: 340px;
+    margin-right: 30px;
+}
+.aboutCompContent{
+    padding: 40px 0;
+}
+.clientSliderMain{
+    padding: 0 50px;
+}
+.getinTouchDetails h4{
+    font-size: 58px;
+}
+/*home end*/
+/* Sidenav Start */
+.topBoxs {
+    margin-top: 85px;
+}
+.navbar-expand-md .navbar-toggler {
+    display: block;
+}
+.navbar-expand-md .navbar-collapse {
+    position: fixed;
+    width: 250px;
+    top: 0;
+    left: -250px;
+    background: var(--colorblack);
+    height: 100%;
+    transition: all 0.3s ease;
+    display: initial !important;
+    margin-top: 70px;
+    padding: 20px 12px 10px 12px;
+    z-index: 9;
+    height: calc(100vh - 70px);
+    overflow-y: auto;
+}    
+.nav-link:hover, .nav-link:focus{
+    border-bottom: none;
+}
+.navbar-expand-md .navbar-nav {
+    flex-direction: column;
+}
+.navbar-light .navbar-nav .nav-item {
+    margin-bottom: 5px;
+}
+.headerBox {
+    display: block !important;
+    float: left !important;
+    width: 100%;
+}
+.navbar-expand-md .navbar-nav .nav-link{
+    padding: 0;
+}
+.nav-item{
+    margin-bottom: 15px;
+}
+.navbar-expand-md .navbar-nav .dropdown-menu{
+    position: relative;
+    background: transparent;
+    border: none;
+    padding-bottom: 0;
+}
+.navbar-expand-md .navbar-nav .dropdown-menu.show{
+    transition: all 0.3s ease;
+}
+.dropdown-item{
+    color: #fff;
+}
+.headerRight span{
+    display: inline-block;
+    float: left;
+}
+.headerRight .toggleBtn{
+    margin-left: 20px;  
+}
+.toggleBtn .navbar-toggler{
+    padding: 12px 15px;
+}
+.nav-item{
+    margin-right: 0;
+    width: 100%;
+}
+.navbar-expand-md .navbar-nav {
+    align-items: flex-start;
+}
+.groupsDropbox.groupsDropbox2 li a {
+    width: auto;
+    display: inline-block;
+}
+
+.scrollBar::-webkit-scrollbar {
+    width: 2px;
+}
+.scrollBar::-webkit-scrollbar-track {
+    background: #fff;
+}
+.scrollBar::-webkit-scrollbar-thumb {
+    background: #b9b9b9;
+}
+/* Sidenav End */
+
+.groupsDropbox.groupsDropbox2,
+.subMenu.groupsDropbox{
+    position: relative;
+    top: 0;
+    right: 0;
+    width: 100%;
+    border: none;
+}
+.groupsDropbox.groupsDropbox2 .topArrow{
+    display: none;
+}
+.groupsDropbox.groupsDropbox2 li{
+    text-align: left;
+    border-bottom: 2px solid transparent;
+}
+.nav-link:hover, .nav-link:focus, .nav-link.active{
+    border-bottom: 2px solid transparent;
+}
+.groupsDropbox.groupsDropbox2 li{
+    padding: 5px 20px;
+}
+
+/* .bannerTabs .bannerTabsInner {
+    padding: 0 100px;
+}
+.bannerTabsInner .bannerTabImg {
+    margin-bottom: 15px;
+}
+.bannerTabsBox{
+    bottom: 20px;
+} */
+/* .bannerSec{
+    height: 600px;
+} */
+/* .bannerTabsInner .bannerTabText h4{
+    font-size: 22px;
+    line-height: 24px;
+} */
+.bannerHeading h2{
+    line-height: 60px;
+}
+/* Common Classes Start */
+.fontSize68 {
+    font-size: 58px;
+    line-height: 66px;
+}
+.fontSize65 {
+    font-size: 54px;
+    line-height: 62px;
+}
+.fontSize58{
+    font-size: 52px;
+}
+.fontSize52 {
+    font-size: 46px;
+    line-height: 54px;
+}
+.fontSize20 {
+    font-size: 18px;
+    line-height: 28px;
+}
+.fontSize18 {
+    font-size: 16px;
+    line-height: 23px;
+}
+.fontSize28 {
+    font-size: 26px;
+    line-height: 34px;
+}
+.btnStyle{
+    font-size: 15px;
+    line-height: 15px;
+    padding: 12px 40px;
+}
+.bannerDesign {
+    height: 380px;
+}
+.fontSize90{
+    font-size: 70px;
+}
+.bannerHeading.subgroupHeading h2{
+    line-height: 80px;
+}
+/* Common Classes End */
+/* Footer Start */
+.footAdress,
+.footerMenu {
+    padding-right: 20px;
+}
+.footerTop {
+    padding: 50px 0;
+}
+.socialMenu ul li a {
+    font-size: 20px;
+}
+.copyRight p{
+    font-size: 14px;
+}
+/* Footer End */
+/* Contct Page Start */
+.contactBtmTop {
+    padding: 0 50px;
+}
+.contactLeft {
+    padding-right: 0;
+}
+.formStyle .submitBtn{
+    padding: 15px 60px;
+}
+.contactBanner {
+    height: 380px;
+}
+/* Contct Page End */
+/* Download Catalogue Section Start */
+.catalogueDownload {
+    width: 560px;
+}
+.fontSize24 {
+    font-size: 22px;
+    line-height: 28px;
+}
+.downloadCatalogue{
+    padding: 55px 0;
+}
+.btnStyle2 {
+    padding: 17px 28px 16px;
+}
+/* Download Catalogue Section End */
+/* Our Product Detail Page Start */
+.featureImage {
+    min-width: 300px;
+    width: 300px;
+    margin-right: 40px;
+}
+/* Our Product Detail Page End */
+/* About Page Start */
+.weAreInner .aboutContentDetail {
+    padding-right: 10px;
+}
+.aboutCompImage{
+    margin-top: -40px;
+}
+.ourValues {
+    margin-top: 90px;
+}
+.testimonialBox{
+    padding: 30px 0 70px;
+}
+.testimonialDesig{
+    font-size: 18px;
+    line-height: 27px;
+}
+.industriesBox {
+    padding: 40px 0 50px;
+}
+.industrySlides {
+    position: relative;
+    margin: 0 10px;
+}
+.testimonialSlider .slick-prev {
+    left: initial;
+    right: 70px;
+}
+.testimonialSlider .slick-next {
+    right: 30px;
+}
+.testimonialmage{
+    margin-right: 20px;
+}
+.fontSize22 {
+    font-size: 20px;
+    line-height: 24px;
+}
+/* About Page End */
+
+
+
+
+
+/* Request A Quote Page Start */
+.divisionsInner {
+    width: 72%;
+}
+.productSelect .prodListing .row .col-sm-6{
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.prodListBox .prodImage.prodImage2 {
+    width: 150px;
+    min-width: 150px;
+    height: 125px;
+}
+.divisionSelect .divSelectBox .col-sm-4{
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin-bottom: 10px;
+}
+.specificFields .row .col-sm-4{
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.specificFields .row .col-sm-4:nth-last-child(-n+3) .specificField{
+    margin-bottom: 10px;
+}
+.specificFields .row .col-sm-4:nth-last-child(-n+2) .specificField{
+    margin-bottom: 0;
+}
+.specificField label{
+    font-size: 14px;
+    line-height: 16px;
+}
+.specificField .form-control{
+    padding: 10px 10px;
+}
+.detailContactBox .row {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.detailContactBox .row .col-sm-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.formStyle label{
+    font-size: 14px;
+    line-height: 14px;
+    margin-bottom: 10px;
+}
+/* Request A Quote Page End */
+
+
+} 
+@media(max-width:767px){ 
+/*home start*/
+  /* .getinTouchDetails {
+    min-height: 211px;
+  } */
+  /* .getInTouch {
+    padding: 40px 55px 40px 55px;
+   } */
+   .welcomeDetails {
+    min-height: inherit;
+    padding-right: 0;
+  }
+  .ourValuesInner {
+    padding-top: 0px;
+   }
+   .CetificatSection.bodySection {
+    min-height: inherit;
+  }
+  .aboutCompImage{
+      padding-bottom: 0;
+  }
+  .welcomeTo{
+      margin: 0;
+  }
+  .whyUs {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.whyUsInner{
+    flex-direction: column-reverse;
+}
+.whyUs .aboutCompImage {
+    width: 450px;
+    min-width: 450px;
+    margin-right: 0;
+    margin: 0 auto;
+}
+.whyUs .aboutCompImage{
+    margin-top: 0;
+}
+.whyUs{
+    margin-bottom: 40px;
+}
+.cetificatSection .productDetailImg{
+    margin: 0 auto;
+    float: unset;
+    text-align: center;
+}
+.indexBanner .bannerHeading p{
+    padding: 0;
+    margin-top: 10px;
+}
+.welcomeDetails{
+    margin-bottom: 40px;
+}
+.WecomeImage .productDetailImg{
+    width: 450px;
+    margin: 0 auto;
+    float: unset;
+}
+.getinTouchDetails h4{
+    font-size: 50px;
+}
+.getInTouch{
+    padding: 50px 0;
+}
+/*home end*/
+
+.bannerTabs .bannerTabsInner {
+    padding: 0 30px;
+}
+.bannerTabsInner .bannerTabImg span{
+    height: 60px;
+    width: 60px;
+}
+.bannerTabsInner .bannerTabText h4 {
+    font-size: 20px;
+    line-height: 20px;
+}
+
+/* Footer Start */
+.footRight .col-sm-3,
+.footRight .col-sm-6{
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.footAdress, 
+.footerMenu{
+    padding-right: 0;
+    margin-bottom: 40px;
+}
+.fontSize65 {
+    font-size: 50px;
+    line-height: 56px;
+}
+/* Footer End */
+/* Common Classes Start */
+.fontSize68 {
+    font-size: 50px;
+    line-height: 58px;
+}
+.fontSize52 {
+    font-size: 42px;
+    line-height: 50px;
+}
+.headingDesign::before{
+    height: 100%;
+}
+.bannerDesign {
+    height: 335px;
+}
+.fontSize90{
+    font-size: 65px;
+}
+.bannerHeading.subgroupHeading h2{
+    line-height: 65px;
+}
+/* Common Classes End */
+/* Contct Page Start */
+.contactBtmTop {
+    padding: 0px;
+    margin-bottom: 45px;
+}
+.contactBottom{
+    padding: 40px 0 120px;
+}
+.fontSize42 {
+    font-size: 40px;
+    line-height: 40px;
+}
+.contactBanner {
+    height: 335px;
+}
+/* Contct Page End */
+/* Download Catalogue Section Start */
+.catalogueDownload {
+    width: 100%;
+}
+.fontSize24 {
+    font-size: 22px;
+    line-height: 28px;
+}
+.downloadCatalogue{
+    padding: 55px 0;
+}
+.btnStyle2 {
+    padding: 17px 28px 16px;
+}
+.catalogueDownload{
+    margin: 40px auto 0;
+}
+/* Download Catalogue Section End */
+/* Our Product Page Start */
+.prodListing .row .col-sm-6 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 15px;
+}
+/* Our Product Page End */
+/* Our Product Detail Page Start */
+.blogDetails {
+    flex-direction: column;
+}
+.featureImage{
+    margin-right: 0;
+    margin-bottom: 50px;
+}
+.peoductDetailPage {
+    padding: 35px 0 90px;
+}
+/* Our Product Detail Page End */
+/* About Page Start */
+.aboutCompSec .row .col-sm-6{
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.aboutComp, .aboutCompContent {
+    min-height: auto;
+}
+.ourValuesInner.aboutCompSec .row{
+    flex-direction: column-reverse;
+}
+.aboutCompImage {
+    margin-top: 0;
+}
+.aboutComp{
+    padding: 50px 0;
+}
+.aboutCompImage{
+    margin-top: 40px;
+}
+/* .aboutCompImage span{
+    width: 60%;
+} */
+.aboutCompImage{
+    text-align: center;
+}
+.aboutCompSec .aboutCompImage .col-sm-6{
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.ourValues {
+    margin-top: 40px;
+}
+.testimonialBox .testimonialBg{
+    width: 65%;
+}
+.fontSize22 {
+    font-size: 20px;
+    line-height: 24px;
+}
+.testimonialContent p{
+    font-size: 14px;
+    line-height: 26px;
+}
+.testimonialBox {
+    padding: 30px 0 40px;
+}
+.testimonialBox{
+    margin: 40px 0 22px;
+}
+.industriesBox {
+    padding: 30px 0 40px;
+}
+.equipmentsBoxs .col-sm-4{
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.aboutCompImage span {
+    width: 100%;
+}
+.testimonialSlider .slick-prev, .testimonialSlider .slick-next {
+    top: -50px;
+}
+.aboutCompImage{
+    width: 450px;
+    margin: 0 auto;
+    float: unset;
+}
+.aboutCompContent{
+    padding-top: 0;
+}
+/* About Page End */
+
+
+
+
+
+
+/* Request A Quote Page Start */
+.divisionsRight{
+    margin-top: 0;
+    position: relative;
+}
+.nextOptionBox{
+    position: relative;
+    right: 0;
+    display: block;
+    width: 100%;
+    top: inherit;
+    float: left;
+    margin-top: 30px;
+}
+.divisionsInner{
+    width: 100%;
+}
+.divisionsPageBox{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.divisionSelect,
+.productSelect,
+.specificationAdd,
+.detailsContact{
+    margin-top: 30px;
+}
+.contactDetailLeft{
+    margin-bottom: 30px;
+}
+/* Request A Quote Page End */
+
+}
+@media(max-width:560px){
+    /*home start*/
+  .welcomeDetails {
+    min-height: inherit;
+    padding-right: 0;
+  }
+  .ourValuesInner {
+    padding-top: 0px;
+  }
+  .cetificatDetails {
+    padding-right: 0;
+  }
+  .getInTouch {
+    padding: 40px 0;
+  }
+   .getinTouchDetails h4 {
+    font-size: 42px;
+   }
+  .WecomeImage .productDetailImg,
+  .whyUs .aboutCompImage{
+      width: 100%;
+      min-width: 100%;
+  }
+  .indexBanner{
+    height: 88vh;
+  }
+  .indexBanner .bannerHeading {
+    padding-top: 100px;
+}
+.productDescription p,
+.aboutContentDetail p{
+    line-height: 25px;
+}
+.ourClients {
+    margin-bottom: 40px;
+}
+.clientSliderMain .slick-prev:before{
+    height: 25px;
+    width: 25px;
+}
+.clientSliderMain .slick-prev,
+.clientSliderMain .slick-next{
+    height: 25px;
+    width: 25px;
+}
+/*home end*/
+.bannerTabs .bannerTabsInner {
+    padding: 0 0;
+}
+.bannerSec{
+    height: 100%;
+}
+.groupBanner{
+    background-position: 25% 100%;
+}
+.headLeft .logoDropBox img{
+    width: 60px;
+}
+.logoDropBox .logoText{
+    font-size: 30px;
+    line-height: 20px;
+    margin-right: 7px;
+}
+.dropIcon{
+    font-size: 12px;
+}
+.navbar-expand-md .navbar-collapse{
+    margin-top: 55px;
+    height: calc(100vh - 55px);
+}
+.groupsDropbox{
+    top: 40px;
+    right: -20px;
+    width: 150px;
+}
+.bannerSec{
+    padding: 0;
+}
+.bannerHeading h2 {
+    line-height: 54px;
+}
+/* Common Classes Start */
+.fontSize68 {
+    font-size: 46px;
+    line-height: 52px;
+}
+.fontSize58 {
+    font-size: 48px;
+}
+.fontSize20 {
+    font-size: 17px;
+    line-height: 23px;
+}
+.fontSize52 {
+    font-size: 38px;
+    line-height: 42px;
+}
+.fontSize65 {
+    font-size: 45px;
+    line-height: 50px;
+}
+.fontSize16{
+    font-size: 15px;
+}
+.topSpace {
+    margin-top: 55px;
+}
+.fontSize90 {
+    font-size: 60px;
+}
+.fontSize24 {
+    font-size: 20px;
+    line-height: 28px;
+}
+/* Common Classes End */
+/* Footer Start */
+.footBtm{
+    flex-direction: column;
+}
+.copyRight{
+    margin-bottom: 10px;
+}
+.footerMenu ul li a{
+    font-size: 16px;
+}
+.footerMenu ul li a.active, 
+.footerMenu ul li a:hover{
+    font-size: 18px;
+}
+.footerMenu ul li {
+    margin-bottom: 15px;
+}
+.footheading h3{
+    font-size: 18px;
+    line-height: 22px;
+}
+.footheading {
+    margin-bottom: 15px;
+}
+.footContact .footSecBottom .footlocation {
+    margin-bottom: 20px;
+}
+.footLeft {
+    margin-bottom: 40px;
+}
+.footLeft .leftMenu li a{
+    font-size: 18px;
+    line-height: 18px;
+}
+.footLeft .leftMenu li {
+    margin-bottom: 5px;
+}
+.footLogo {
+    min-width: 150px;
+    width: 150px;
+}
+/* Footer End */
+
+/* Contct Page Start */
+.contactBtmTop {
+    padding: 0px;
+    margin-bottom: 45px;
+}
+.contactBottom{
+    padding: 30px 0 60px;
+}
+.formStyle label{
+    font-size: 14px;
+    line-height: 14px;
+}
+.formStyle .form-control{
+    font-size: 16px;
+    line-height: 18px;
+}
+.formStyle .form-group {
+    margin-bottom: 16px;
+}
+.formStyle textarea.form-control{
+    font-size: 14px;
+    line-height: 18px;
+}
+.contactLeft .contactLeftBox span, 
+.contactLeft .contactLeftBox span a{
+    line-height: 23px;
+}
+/* Contct Page End */
+/* Catalogue Download Section Start */
+.btnStyle2 {
+    padding: 15px 20px 14px;
+}
+.downloadCatalogue {
+    padding: 45px 0;
+}
+/* Catalogue Download Section End */
+/* Our Product Page Start */
+.secHeading {
+    margin-bottom: 25px;
+}
+/* Our Product Page End */
+/* Our Product Detail Page Start */
+.productNameHeading {
+    margin-bottom: 10px;
+}
+.productDescription p{
+    margin-bottom: 15px;
+}
+.specificationList ul li{
+    margin-bottom: 17px;
+}
+.specificationList ul li::before{
+    height: 16px;
+    width: 16px;
+    top: 6px;
+}
+.specificationHead {
+    margin-bottom: 30px;
+}
+.peoductDetailPage {
+    padding: 30px 0 60px;
+}
+.getQuoteBox {
+    margin-top: 20px;
+}
+.breadCrumb.breadCrumb2 li span{
+    font-size: 17px;
+    line-height: 17px;
+}
+.breadCrumb.breadCrumb2 .backBtn img{
+    width: 14px;
+} 
+/* Our Product Detail Page End */
+/* About Page Start */
+.testimonialSlide{
+    padding: 20px;
+}
+.bannerHeading.bannerHeading2{
+    margin-top: 55px;
+} 
+.equipmentsBoxs .col-sm-4{
+    margin-bottom: 20px;
+}
+.equipmentsSec{
+    padding: 50px 0 30px;
+}
+.testimonialSlider .slick-prev, .testimonialSlider .slick-next {
+    top: -44px;
+}
+.aboutCompImage{
+    width: 100%;
+}
+/* About Page End */
+
+
+
+
+
+/* Request A Quote Page Start */
+.prodListSec{
+    flex-direction: column;
+}
+.prodListBox .prodDetails{
+    padding-top: 0;
+}
+.prodListBox .prodImage{
+    margin-bottom: 15px;
+}
+.prodListBox .prodDetails h3{
+    margin-bottom: 8px;
+}
+/* Request A Quote Page End */
+
+}
+@media(max-width:414px){
+.container {
+    padding: 0 20px;
+}
+.bannerTextbox {
+    padding: 0px;
+}
+.bannerTabsInner .bannerTabImg span {
+    height: 50px;
+    width: 50px;
+}
+.bannerTabsInner .bannerTabText h4 {
+    font-size: 18px;
+    line-height: 18px;
+}
+.bannerTabsInner .bannerTabText{
+    padding-bottom: 0;
+}
+.headingDesign::before {
+    /* height: 30px; */
+    height: 100%;
+}
+/* Common Classes Start */
+.fontSize58 {
+    font-size: 42px;
+}
+.fontSize14 {
+    font-size: 12px;
+    line-height: 18px;
+}
+.bannerHeading h2 {
+    line-height: 50px;
+}
+.bannerDesign {
+    height: 290px;
+}
+.fontSize18 {
+    font-size: 15px;
+    line-height: 22px;
+}
+.fontSize28 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.fontSize65 {
+    font-size: 40px;
+    line-height: 45px;
+}
+.fontSize90 {
+    font-size: 50px;
+}
+.fontSize24 {
+    font-size: 16px;
+    line-height: 24px;
+}
+.btnStyle2 {
+    padding: 12px 20px 12px;
+}
+.bannerDesign {
+    height: 290px;
+}
+/* Common Classes End */
+/* Footer Start */
+.copyRight p {
+    font-size: 12px;
+}
+.socialMenu ul li a {
+    font-size: 17px;
+}
+.footContact .footSecBottom .footlocation p {
+    margin-bottom: 6px;
+}
+.footerTop {
+    padding: 40px 0;
+}
+.footAdress, 
+.footerMenu {
+    margin-bottom: 35px;
+}
+/* Footer End */
+/* Contact Page Start */
+.bannerHeading.subgroupHeading h2{
+    line-height: 58px;
+}
+/* Contact Page End */
+/* Catalogue Download Section Start */
+.fontSize42 {
+    font-size: 34px;
+    line-height: 38px;
+}
+.catalogueDownload{
+    flex-direction: column;
+}
+.catalogueBtn{
+    width: 100%;
+    margin-left: 0;
+    text-align: center;
+    margin-top: 15px;
+}
+.downloadCatalogue {
+    padding: 35px 0;
+}
+.catalogueDownload {
+    margin: 25px auto 0;
+}
+/* Catalogue Download Section End */
+/* Our Product Page Start */
+.productListBox {
+    padding: 35px 0 30px;
+}
+/* Our Product Page End */
+/* Our Product Detail Page Start */
+
+.featureImage{
+    margin-bottom: 50px;
+    min-width: 100%;
+    width: 100%;
+}
+.peoductDetailPage {
+    padding: 35px 0 60px;
+}
+.getQuoteBox {
+    margin-top: 20px;
+}
+/* Our Product Detail Page End */
+/* About Page Start */
+.ourValues {
+    margin-top: 30px;
+}
+.equipmentsBoxs .col-sm-4{
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+.aboutComp {
+    padding: 40px 0;
+}
+.equipmentsSec{
+    padding: 30px 0 20px;
+}
+.testimonialSlider .slick-next {
+    right: 20px;
+}
+.testimonialSlider .slick-prev {
+    right: 50px;
+}
+.testimonialContent p {
+    font-size: 13px;
+    line-height: 23px;
+}
+.testimonialmage {
+    width: 70px;
+    min-width: 70px;
+    height: 70px;
+    margin-right: 15px;
+}
+.fontSize22 {
+    font-size: 17px;
+    line-height: 22px;
+}  
+.welcomeDetails {
+    margin-bottom: 30px;
+} 
+/* About Page End */
+
+
+
+
+/* Request A Quote Page Start */
+.divisionSelect .divSelectBox .col-sm-4{
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.specificFields .row .col-sm-4{
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.specificFields .row .col-sm-4:nth-last-child(-n+2) .specificField{
+    margin-bottom: 10px;
+}
+.specificFields .row .col-sm-4:nth-last-child(-n+1) .specificField{
+    margin-bottom: 0;
+}
+/* Request A Quote Page End */
+}
